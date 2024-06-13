@@ -1,5 +1,3 @@
-package com.comunidadedevspace.imc
-
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -13,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Recuperar os componentes EditText
+          // Recuperar os componentes EditText
         // Criar uma variavel e associar o componente de UI <EditText>
         // Recuperar o botao da tela
 
@@ -31,7 +29,9 @@ class MainActivity : AppCompatActivity() {
 
             val alturaQ2 = altura * altura
             val resultado = peso / alturaQ2
-            println(resultado)
+            println("acao do botao" + resultado)
+            // ativar projeto
+            // testa apk
 
         }
     }
