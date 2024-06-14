@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
 
             if (pesoStr == "" || alturaStr == "") {
                 // Mostrar mensagem para o usuario
+                // alterar codigo
 
                 Snackbar.make(
                     edtPeso,
