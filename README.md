@@ -11,13 +11,10 @@ Screenshots
 + Snackbar
 + Activity para host de telas
 + ViewGroup
-+ RelativeLayout
 + LinearLayout
-+ Components de UI
 + TextView
 + EditText
 + Button
-+ Toast para display de mensagens
 + Intent Explicita para abrir a segunda Activity
 + FindViewById para recuperar components de UI
 + String resource para concatenação de textos
