@@ -4,9 +4,11 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 Screenshots
+<img src="https://github.com/igorlopessilva99/CalculadoraImc/assets/171837436/ec1336df-c94d-46b8-88c9-dae9aee27698" width90/> <img src="https://github.com/igorlopessilva99/CalculadoraImc/assets/171837436/c18745e7-2af8-4478-92d8-09560acd3d9d" width90/>
 
 ## Tecnologias
 + Kotlin
++ Snackbar
 + Activity para host de telas
 + ViewGroup
 + RelativeLayout
